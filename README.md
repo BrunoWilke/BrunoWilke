@@ -26,7 +26,7 @@ I'm fascinated by technology and recently I decided to turn to the IT area. Duri
 <a href="https://instagram.com/wilke.bruno" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/brunowilke" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-<!--
+
 ## Github Stats
 <div>
 <a href="https://github.com/BrunoWilke">
@@ -34,7 +34,7 @@ I'm fascinated by technology and recently I decided to turn to the IT area. Duri
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoWilke&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-
+<!--
 **BrunoWilke/BrunoWilke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
